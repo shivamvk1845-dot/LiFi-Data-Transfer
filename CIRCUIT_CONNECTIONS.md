@@ -39,7 +39,7 @@ The Arduino switches the LED ON and OFF according to the transmitted digital dat
 
 ### LED Circuit Image
 
-![LED-Based VLC Circuit](images/CircuitConnection.png)
+![LED-Based VLC Circuit](images/CircuitConnection_LED.png)
 
 ---
 
@@ -127,13 +127,7 @@ The LCD displays the received message or measured light-intensity readings, depe
 
 ---
 
-## 5. Circuit Images
-
-### Laser-Based VLC Setup
-
-![Laser VLC Setup](images/CircuitConnection.png)
-
-## 6. LED Data Transmission Format
+## 5. LED Data Transmission Format
 
 The LED transmitter uses the following timing values:
 
@@ -152,7 +146,7 @@ The transmitter sends the message length, message characters, and an XOR checksu
 
 ---
 
-## 7. Complete System Overview
+## 6. Complete System Overview
 
 ### LED Configuration
 
@@ -194,7 +188,7 @@ The transmitter and receiver communicate through light, so no data wire is requi
 
 ---
 
-## 8. Important Notes
+## 7. Important Notes
 
 1. LED and laser are alternative transmitter configurations.
 2. The receiver reads the BPW34 sensing circuit through A0.
