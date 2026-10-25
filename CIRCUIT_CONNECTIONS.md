@@ -71,7 +71,7 @@ For a constant-light intensity experiment, the laser can remain ON while the rec
 
 ### Laser Circuit Image
 
-![Laser-Based VLC Circuit](images/laser-circuit.jpg)
+![Laser-Based VLC Circuit](images/CircuitConnection_Laser.png)
 
 ---
 
