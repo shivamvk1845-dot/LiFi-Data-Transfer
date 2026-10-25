@@ -39,7 +39,7 @@ The Arduino switches the LED ON and OFF according to the transmitted digital dat
 
 ### LED Circuit Image
 
-![LED-Based VLC Circuit](images/led-circuit.jpg)
+![LED-Based VLC Circuit](images/CircuitConnection.png)
 
 ---
 
@@ -131,7 +131,7 @@ The LCD displays the received message or measured light-intensity readings, depe
 
 ### Laser-Based VLC Setup
 
-![Laser VLC Setup](gggg)
+![Laser VLC Setup](images/CircuitConnection.png)
 
 ## 6. LED Data Transmission Format
 
