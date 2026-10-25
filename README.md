@@ -4,10 +4,10 @@ An Arduino-based **Visible Light Communication (VLC)** project for transmitting 
 
 ## How It Works
 
-The system transmits data by rapidly switching an LED ON and OFF.
+The system transmits data by rapidly switching an LED/Laser ON and OFF.
 
 **Transmitter:**
-Arduino → LED → Visible Light
+Arduino → LED/Laser → Visible Light
 
 **Receiver:**
 Visible Light → BPW34 Photodiode → Arduino → LCD
@@ -17,7 +17,7 @@ The transmitted message is detected by the BPW34 photodiode and displayed on a 1
 ## Components Used
 
 - Arduino Uno × 2
-- LED
+- LED/Laser
 - BPW34 Photodiode
 - 16×2 I2C LCD
 - Resistors
